@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I completed a Full Stack Development Certificate program
-- 🙂 I am pursuing Software Developer roles
+- 🙂 I am pursuing programming roles
 - 📫 How to reach me: jim_adediran@yahoo.com
 
 <!--
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I completed a Full Stack Development Certificate program
-- 🤔 I am pursuing Software Developer roles
+- 🙂 I am pursuing Software Developer roles
 - 📫 How to reach me: jim_adediran@yahoo.com
