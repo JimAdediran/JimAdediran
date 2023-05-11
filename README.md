@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on full stack projects
 - 🌱 I completed a Full Stack Development Certificate program
-- 🙂 I am pursuing programming roles
 - 📫 How to reach me: jim_adediran@yahoo.com
 
 <!--
